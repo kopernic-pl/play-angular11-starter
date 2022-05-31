@@ -1,4 +1,4 @@
-# Play framework + Angular 11 starter
+# Play framework + Angular 12 basic starter
 
 This is a starter application that shows how Play works. And angular.
 
