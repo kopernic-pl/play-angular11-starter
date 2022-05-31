@@ -1,4 +1,4 @@
-# Play framework + Angular 12 basic starter
+# Play framework + Angular 13 basic starter
 
 This is a starter application that shows how Play works. And angular.
 
@@ -21,7 +21,7 @@ To follow the steps in this tutorial, you will need the correct version of Java 
 
 Prerequisites include:
 
-* Java Software Developer's Kit (SE) 1.8 or higher
+* Java Software Developer's Kit (SE) 11 or higher
 * this package already includes an sbt distribution for your convenience.
 
 To check your Java version, enter the following in a command window:
