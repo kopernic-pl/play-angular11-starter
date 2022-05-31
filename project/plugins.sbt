@@ -1,3 +1,3 @@
-addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.8.13")
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.8.15")
 addDependencyTreePlugin
-addSbtPlugin("org.jmotor.sbt" % "sbt-dependency-updates" % "1.2.1")
+addSbtPlugin("org.jmotor.sbt" % "sbt-dependency-updates" % "1.2.2")
