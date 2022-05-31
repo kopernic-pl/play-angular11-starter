@@ -4,6 +4,7 @@ target
 /RUNNING_PID
 public/app/
 bin/
+!/sbt-dist/*
 ng-frontend/dist/
 .g8/
 .bsp/
